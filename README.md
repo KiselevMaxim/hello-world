@@ -1,2 +1,3 @@
 # hello-world
-training repo
+training repo  
+adding some text
